@@ -10,11 +10,22 @@ The aesthethics of the game is yet to be polished as well as other functionaliti
 ### In main window
 
 **ARROW UP** - move up
+
+
 **ARROW DOWN** - move down
+
+
 **ARROW LEFT** - move left
+
+
 **ARROW RIGHT** - move right
+
+
 
 ### In game over window
 
 **Q** - quit
+
+
 **C** - play again
+
